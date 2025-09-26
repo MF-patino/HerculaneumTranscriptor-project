@@ -1,0 +1,6 @@
+[submodule "HerculaneumTranscriptor"]
+	path = HerculaneumTranscriptor
+	url = git@github.com:MF-patino/HerculaneumTranscriptor.git
+[submodule "Zographos"]
+	path = Zographos
+	url = git@github.com:MF-patino/Zographos.git
